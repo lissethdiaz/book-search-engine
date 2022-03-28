@@ -1,22 +1,27 @@
 # Book Search Engine
 
+## Deployed Website
+
+
+
 ## Description
   
-  
+This is a Google Books API search engine. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
   ## Technologies Used
 
-  * 
+  * MongoDB
+  * Express.js
+  * React.js
+  * Node.js
+  
   ## Installation
 
-  After cloning the repo you will run 'npm i' to install/update any packages. After everything is up to date 
+  No installation required.
 
   ## Usage
-
   
-
-  Watch this [video]() for a walkthrough on how to use this app.
-
+  You can search by any search term and it will populate results. You can save a book by clicking "Save This Book!" and all saved books will appear in a separate page.
 
   ## Contributed
 
