@@ -2,7 +2,9 @@
 
 ## Deployed Website
 
-https://git.heroku.com/vast-sierra-18930.git
+https://vast-sierra-18930.herokuapp.com/
+
+![](/screenshot.png)
 
 ## Description
   
